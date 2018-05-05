@@ -1,3 +1,5 @@
+# Note This repository has moved to https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi-coercion
+
 # express-openapi-coercion [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 > Express middleware to coerce request properties according to an openapi parameter list.
 
